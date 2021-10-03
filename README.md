@@ -2,7 +2,7 @@
 This plugin will help you to use commands faster and easier
 
 <br>
-## Commands
+## Commands:
 | **Command** | **Description** |
 | --- | --- | --- |
 | **/day** | **Time Set Day** |
