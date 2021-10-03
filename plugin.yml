@@ -1,0 +1,67 @@
+name: SimpleCommands
+api:  3.0.0
+version: 1.0.0
+main: NoobMCBG\SimpleCommands\Main
+author: NoobMCBG
+load: STARTUP
+commands:
+  day:
+    description: Time Set Day
+    usage: "/day"
+    permission: simplecommand.command.day
+  night:
+    description: Time Set Night
+    usage: "/night"
+    permission: simplecommand.command.night
+  gms:
+    description: Change Gamemode Survival
+    usage: "/gms"
+    permission: simplecommand.command.gms
+  gma:
+    description: Change Gamemode Adventure
+    usage: "/gma"
+    permission: simplecommand.command.gma
+  gmc:
+    description: Change Gamemode Creative
+    usage: "/gmc"
+    permission: simplecommand.command.gmc
+  gmspc:
+    description: Change Gamemode Spector
+    usage: "/gmspc"
+    permission: simplecommand.command.gmspc
+  heal:
+    description: Heal
+    usage: "/heal"
+    permission: simplecommand.command.heal
+  food:
+    description: Food
+    usage: "/food"
+    aliases: [feed]
+    permission: simplecommand.command.food
+permission:
+   simplecommand.command.*:
+      chilren:
+        simplecommand.command.day:
+           description: Permission /day Command
+           default: op
+        simplecommand.command.night:
+           description: Permission /night Command
+           default: op
+        simplecommand.command.gms:
+           description: Permission /gms Command
+           default: op
+        simplecommand.command.gma:
+           description: Permission /gma Command
+           default: op
+        simplecommand.command.gmc:
+           description: Permission /gmc Command
+           default: op
+        simplecommand.command.gmspc:
+           description: Permission /gmspc Command
+           default: op
+        simplecommand.command.heal:
+           description: Permission /heal Command
+           default: op
+        simplecommand.command.food:
+           description: Permission /food Command
+           default: op
