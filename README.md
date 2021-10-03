@@ -1,5 +1,5 @@
-#SimpleCommands | v1.0.0
-This plugin will help you to use commands faster and easier
+# SimpleCommands | v1.0.0
+- This plugin will help you to use commands faster and easier
  
 ## Commands:
 
