@@ -31,6 +31,7 @@ This plugin will help you to use commands faster and easier
 <br>
 
 ## Configs:
+<br>
 ---
 # Default Config:
 #   no-permission: "§cYou do not have permission to use this command"
