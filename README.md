@@ -1,14 +1,19 @@
-<div align="center">
 #SimpleCommands | v1.0.0
-Use to switch modes faster
-</div>
+This plugin will help you to use commands faster and easier
  
 ## Commands:
 
-| **Command** | **Description** |
-| --- | --- |
+| **Command** | **Description** | **Aliases** |
+| --- | --- | --- |
 | **/day** | **Time Set Day** |
 | **/night** | **Time Set Night** |
+| **/gms** | **Change Gamemode Survival** |
+| **/gma** | **Change Gamemode Adventure** |
+| **/gmc** | **Change Gamemode Creative** |
+| **/gmspc** | **Change Gamemode Spector** |
+| **/heal** | **Heal** |
+| **/food** | **Food** | **[feed]** |
+
 
 <br>
 ## 📃  Permissions:
