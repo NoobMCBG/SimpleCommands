@@ -1,4 +1,3 @@
-<div align="center">
 # SimpleCommands
 This plugin will help you to use commands faster and easier
 </div>
