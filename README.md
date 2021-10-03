@@ -32,30 +32,30 @@ This plugin will help you to use commands faster and easier
 
 ## Configs:
 ---
-# Default Config:
-#   no-permission: "§cYou do not have permission to use this command"
-#   gamemode-successfully: "§aChange Gamemode Successfully"
-#   heal-successfully: "§aYour health bar has been fully restored"
-#   food-successfully: "§aYour food bar has been fully restored"
-#   day-successfully: "§aYou have successfully adjusted to the morning"
-#   night-successfully: "§aYou have successfully adjusted to the evening"
+- # Default Config:
+- #   no-permission: "§cYou do not have permission to use this command"
+- #   gamemode-successfully: "§aChange Gamemode Successfully"
+- #   heal-successfully: "§aYour health bar has been fully restored"
+- #   food-successfully: "§aYour food bar has been fully restored"
+- #   day-successfully: "§aYou have successfully adjusted to the morning"
+- #   night-successfully: "§aYou have successfully adjusted to the evening"
 
-# Below is the message when the player does not have permission to use the command
-no-permission: "§cYou do not have permission to use this command"
+- # Below is the message when the player does not have permission to use the command
+- no-permission: "§cYou do not have permission to use this command"
 
-# Message Change Gamemode Successfully
+- # Message Change Gamemode Successfully
 gamemode-successfully: "§aChange Gamemode Successfully"
 
-# Message Use Command /heal Successfully
-heal-successfully: "§aYour health bar has been fully restored"
+- # Message Use Command /heal Successfully
+- heal-successfully: "§aYour health bar has been fully restored"
 
-# Message Use Command /food Successfully
-food-successfully: "§aYour food bar has been fully restored"
+- # Message Use Command /food Successfully
+- food-successfully: "§aYour food bar has been fully restored"
 
-# Message Change Time To Day Successfully
-day-successfully: "§aYou have successfully adjusted to the morning"
+- # Message Change Time To Day Successfully
+- day-successfully: "§aYou have successfully adjusted to the morning"
 
-# Message Change Time To Night Successfully
-night-successfully: "§aYou have successfully adjusted to the evening"
+- # Message Change Time To Night Successfully
+- night-successfully: "§aYou have successfully adjusted to the evening"
 ...
 
