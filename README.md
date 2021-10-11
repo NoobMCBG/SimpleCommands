@@ -1,7 +1,7 @@
 # SimpleCommands | v1.0.0
 - This plugin will help you to use commands faster and easier
  
-## Commands:
+# Commands:
 
 | **Command** | **Description** | **Aliases** |
 | --- | --- | --- |
@@ -16,7 +16,7 @@
 
 <br>
 
-## Permission:
+# Permission:
  
 - `simplecommand.command.*` for use all command
 - `simplecommand.command.day` for use command /day
@@ -30,7 +30,8 @@
 
 <br>
 
-## Configs:
+# Configs:
+```
 ---
 - # Default Config:
 - #   no-permission: "§cYou do not have permission to use this command"
@@ -58,4 +59,6 @@ gamemode-successfully: "§aChange Gamemode Successfully"
 - # Message Change Time To Night Successfully
 - night-successfully: "§aYou have successfully adjusted to the evening"
 ...
+```
+<br>
 
